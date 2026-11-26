@@ -1,0 +1,7 @@
+.env
+venv/
+ceylon_shield_knowledge_base/
+shieldbot_evaluation_set.csv
+chroma_db/
+__pycache__/
+.ipynb_checkpoints/.env
